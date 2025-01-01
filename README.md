@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=Girish-Krishnan)
+
 # Welcome to my GitHub Profile!
 
 I’m interested in the intersection of control theory, optimization, machine learning and the application of these fields to robotics. I am currently a 4th-year undergraduate student at the University of California, San Diego. By Winter 2025, I will have completed a Bachelor of Science, triple majoring in:
