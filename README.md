@@ -8,8 +8,6 @@ I’m interested in the intersection of control theory, optimization, machine le
 * Mathematics-Computer Science
 * Physics, with a specialization in Computational Physics
 
-At UCSD, I work in the Existential Robotics Lab under the supervision of Prof. Nikolay Atanasov. My research focuses on vision-based reinforcement learning for mobile robot manipulation. I also work at the Video Processing Lab under the supervision of Prof. Truong Nguyen, where I develop an efficient multi-camera system for 3D reconstruction.
-
 If you are interested in my work, feel free to reach out to me!
 
 <div id="badges">
